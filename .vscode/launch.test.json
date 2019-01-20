@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "das-boot",
+                "projectName": "das-boot",
+                "workingDirectory": "c:\\Users\\yeyon\\source\\vscode\\springBootProject\\das-boot",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "das-boot",
+                "projectName": "das-boot",
+                "workingDirectory": "c:\\Users\\yeyon\\source\\vscode\\springBootProject\\das-boot",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
