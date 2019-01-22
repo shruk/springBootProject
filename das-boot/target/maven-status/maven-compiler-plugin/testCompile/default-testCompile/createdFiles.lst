@@ -1,0 +1,4 @@
+com\boot\AppTest.class
+com\boot\ShipwreckRepositoryIntegrationTest.class
+com\boot\ShipwreckControllerTest.class
+com\boot\ShipwreckControllerWebIntegrationTest.class
